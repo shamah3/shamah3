@@ -67,3 +67,15 @@ Published in **Al-Razi University Journal (RUJMS)** — May 2026
 
 🔗 https://rujms.alraziuni.edu.ye/RUJCST/en/article/view/348/296
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shamah3&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamah3&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
