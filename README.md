@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shama Al-Fagih</h1>
+<h1 align="center">Hi 👋, I'm Shama Al-Fakih</h1>
 
 <h3 align="center">Information Technology Graduate | Flutter & Laravel Developer</h3>
 
