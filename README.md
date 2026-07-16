@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shama Al-Fagih</h1>
 
-<!--
-**shamah3/shamah3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Information Technology Graduate | Flutter & Laravel Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building innovative mobile and web applications with Flutter & Laravel.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Information Technology Graduate from Al-Razi University.
+- 📱 Passionate about Flutter and Laravel development.
+- 🚀 Team Leader of a Smart Digital Inventory Management & E-Commerce Integration System.
+- 📄 Co-author of a published research paper on AI-based fraud detection in electronic wallets.
+- 🌱 Currently improving my skills in software development and building real-world projects.
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/shama-ai-fagih-ba0b93341
+- 📧 Email: Shamaalfakih@gmail.com
