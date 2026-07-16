@@ -79,3 +79,18 @@ Published in **Al-Razi University Journal (RUJMS)** — May 2026
 
 </p>
 
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shamah3&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shamah3&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
