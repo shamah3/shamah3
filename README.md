@@ -18,6 +18,14 @@ Building innovative mobile and web applications with Flutter & Laravel.
 
 ---
 
+## 🌟 Highlights
+
+- 🎓 Information Technology Graduate
+- 📱 Flutter & Laravel Developer
+- 📄 Published Research Author
+- 👩‍💼 Graduation Project Team Leader
+- 🌍 Based in Sana'a, Yemen
+
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://linkedin.com/in/shama-ai-fagih-ba0b93341
