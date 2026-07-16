@@ -50,3 +50,13 @@ Graduation project that connects local electronic stores with an online platform
 - RESTful APIs
 - SQL Server
 
+---
+
+## 📄 Research Publication
+
+**Mechanism of Fraud Detection and Prevention in Electronic Wallets Using Artificial Intelligence**
+
+Published in **Al-Razi University Journal (RUJMS)** — May 2026
+
+🔗 https://rujms.alraziuni.edu.ye/RUJCST/en/article/view/348/296
+
