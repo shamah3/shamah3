@@ -22,3 +22,13 @@ Building innovative mobile and web applications with Flutter & Laravel.
 
 - 💼 LinkedIn: https://linkedin.com/in/shama-ai-fagih-ba0b93341
 - 📧 Email: Shamaalfakih@gmail.com
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,js,html,css,mysql,git,github,vscode,figma,postman" />
+
+</p>
