@@ -25,6 +25,7 @@ Building innovative mobile and web applications with Flutter & Laravel.
 - 📄 Published Research Author
 - 👩‍💼 Graduation Project Team Leader
 - 🌍 Based in Sana'a, Yemen
+  
 
 ## 📫 Connect with Me
 
@@ -36,9 +37,7 @@ Building innovative mobile and web applications with Flutter & Laravel.
 ## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,js,html,css,mysql,git,github,vscode,figma,postman" />
-
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,js,html,css,mysql,git,github,vscode,figma,postman&perline=7" />
 </p>
 
 
