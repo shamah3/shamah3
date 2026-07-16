@@ -32,3 +32,21 @@ Building innovative mobile and web applications with Flutter & Laravel.
 <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,js,html,css,mysql,git,github,vscode,figma,postman" />
 
 </p>
+
+
+---
+
+## 🚀 Featured Project
+
+### Smart Digital Inventory Management & E-Commerce Integration System
+
+Graduation project that connects local electronic stores with an online platform through a smart inventory synchronization mechanism.
+
+**Technologies:**
+
+- Flutter
+- Laravel
+- MySQL
+- RESTful APIs
+- SQL Server
+
