@@ -282,65 +282,6 @@ Published Research Paper • Al-Razi University Journal • 2026
 
 <br/>
 
-## 🏆 Professional Snapshot
-
-<div align="center">
-
-> Building reliable software solutions by combining clean code, modern technologies, and practical innovation.
-
-</div>
-
-<br/>
-
-<table align="center" width="100%">
-
-<tr>
-
-<td align="center" width="25%">
-
-<img src="https://api.iconify.design/mdi:cellphone.svg?color=%2340E0D0" width="55"/>
-
-### Flutter
-
-Mobile Applications
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://api.iconify.design/mdi:web.svg?color=%2340E0D0" width="55"/>
-
-### Laravel
-
-Web Systems
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://api.iconify.design/mdi:database.svg?color=%2340E0D0" width="55"/>
-
-### Database
-
-Data Solutions
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://api.iconify.design/mdi:lightbulb.svg?color=%2340E0D0" width="55"/>
-
-### Innovation
-
-Problem Solving
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
 
 ## 📊 GitHub Activity
 
