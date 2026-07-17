@@ -141,13 +141,11 @@ Artificial Intelligence • Random Forest
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/shama-ai-fakih-ba0b93341">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:Shamaalfakih@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
