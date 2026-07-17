@@ -49,58 +49,6 @@ I specialize in:
 
 <br/>
 
-## 🎯 What I Focus On
-
-<table align="center" width="100%">
-
-<tr>
-
-<td align="center">
-
-<img src="https://api.iconify.design/mdi:cellphone.svg?color=%2340E0D0" width="60"/>
-
-### Flutter Development
-
-Cross-platform mobile applications
-
-</td>
-
-<td align="center">
-
-<img src="https://api.iconify.design/mdi:web.svg?color=%2340E0D0" width="60"/>
-
-### Web Development
-
-Laravel based web systems
-
-</td>
-
-<td align="center">
-
-<img src="https://api.iconify.design/mdi:database.svg?color=%2340E0D0" width="60"/>
-
-### Database
-
-MySQL & SQL Server solutions
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,git,github,vscode,figma&perline=9"/>
-
-</div>
-
-<br/>
-
 ## 🚀 Professional Focus
 
 <table align="center" width="100%">
@@ -272,18 +220,6 @@ Published Research Paper • Al-Razi University Journal • 2026
 
 </div>
 
-<br/>
-
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamah3&theme=react&hide_border=true&area=true&color=40E0D0" width="95%"/>
-
-</div>
-
-<br/>
 
 ## 🤝 Let's Connect
 
