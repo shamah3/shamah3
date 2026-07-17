@@ -91,9 +91,15 @@ Research focused on using Artificial Intelligence techniques for fraud detection
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shamah3&show_icons=true&theme=github_dark&hide_border=true"/>
+<img 
+src="https://github-readme-stats.vercel.app/api?username=shamah3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+height="180"
+/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamah3&layout=compact&theme=github_dark&hide_border=true"/>
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamah3&layout=compact&theme=tokyonight&hide_border=true"
+height="180"
+/>
 
 </div>
 
