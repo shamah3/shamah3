@@ -154,3 +154,58 @@ May 2026
 </div>
 
 ---
+## 🚀 Highlights
+
+<div align="center">
+
+| 🎯 | Achievement |
+|:--:|-------------|
+| 👩‍💻 | Flutter & Laravel Developer |
+| 🎓 | Information Technology Graduate |
+| 📱 | Team Leader of Graduation Project |
+| 📄 | Published AI Research Paper |
+| 🌍 | Passionate about Building Real-World Solutions |
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shamah3&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamah3&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:Shamaalfakih@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://linkedin.com/in/shama-ai-fagih-ba0b93341">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/shamah3">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+*"Turning ideas into software."*
+
+</div>
