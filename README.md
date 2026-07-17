@@ -1,28 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2563EB,100:1E40AF&text=Shama%20Al-Fakih&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,40:2563EB,100:3B82F6&section=header&text=Shama%20Al-Fakih&fontColor=FFFFFF&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Laravel%20Developer&descAlignY=58"/>
 
 <h2>👋 Hi, I'm Shama Al-Fakih</h2>
 
 <h3>
-Information Technology Graduate | Flutter & Laravel Developer
+Information Technology Graduate | Software Developer
 </h3>
 
 <p>
-Building practical software solutions and modern digital applications.
+Building practical digital solutions with Flutter, Laravel, and modern technologies.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=600&lines=Flutter+Developer;Laravel+Developer;Mobile+%26+Web+Applications;Always+Learning+New+Technologies"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=600&color=3B82F6&lines=Flutter+Developer;Laravel+Developer;Mobile+%26+Web+Applications;Always+Learning+New+Technologies"/>
+
 
 <br><br>
 
-<a href="https://linkedin.com/in/shama-ai-fagih-ba0b93341">
-<img src="https://img.shields.io/badge/LinkedIn-Shama%20Al--Fakih-blue?style=for-the-badge&logo=linkedin"/>
-</a>
 
 <a href="mailto:Shamaalfakih@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="42"/>
 </a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/shama-ai-fagih-ba0b93341">
+<img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/shamah3">
+<img src="https://skillicons.dev/icons?i=github" width="42"/>
+</a>
+
 
 </div>
 
@@ -33,102 +47,61 @@ Building practical software solutions and modern digital applications.
 
 Hello 👋
 
-I'm **Shama Al-Fakih**, an Information Technology graduate passionate about software development and building real-world digital solutions.
+I'm **Shama Al-Fakih**, an Information Technology graduate passionate about software development and creating practical digital solutions.
 
-My interests include:
+I specialize in building:
 
-- 📱 Mobile applications development using **Flutter**
-- 🌐 Web applications development using **Laravel**
-- 🗄️ Database design and management
-- 🔗 RESTful API integration
-- 🤖 Applying modern technologies to solve practical problems
+- 📱 Mobile applications using **Flutter**
+- 🌐 Web applications using **Laravel**
+- 🗄️ Database solutions and API integration
+- 🚀 Real-world software projects that solve practical problems
+
+I enjoy learning new technologies and transforming ideas into functional applications.
 
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,sqlserver,js,html,css,git,github,vscode,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,sqlserver,git,github,vscode,figma&perline=10"/>
 
 </div>
+
 
 ---
 
 ## 🚀 Featured Project
 
-### Smart Digital Inventory Management System
-
-A graduation project that connects electronic stores with an intelligent digital platform for inventory management and e-commerce.
-
-**Technologies:**
-
-- Flutter Mobile Application
-- Laravel Backend
-- MySQL Database
-- SQL Server Integration
-- REST APIs
-
-
----
-
-## 📄 Research Publication
-
-### Mechanism of Fraud Detection and Prevention in Electronic Wallets Using Artificial Intelligence
-
-Published in **Al-Razi University Journal**
-
-May 2026
-
-Research focused on using Artificial Intelligence techniques for fraud detection and prevention in electronic wallets.
-
-
----
-
-## 📊 GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamah3&theme=github-dark&hide_border=true" width="95%"/>
+<h3>
+Smart Digital Inventory Management System
+</h3>
+
+<p>
+A graduation project that connects electronic stores with a smart digital platform for inventory management and e-commerce.
+</p>
 
 </div>
 
 
----
+### ✨ Key Features
 
-## 🏆 Highlights
+- 🔄 Real-time inventory synchronization
+- 🛒 Multi-vendor electronic marketplace
+- 📱 Flutter mobile application
+- 🌐 Laravel backend system
+- 🔗 REST API integration
+- 🤖 AI-powered assistant features
+- 📊 Management dashboards and reports
 
-- 👩‍💻 Flutter & Laravel Developer
-- 🎓 Information Technology Graduate
-- 🚀 Graduation Project Team Leader
-- 📄 Published AI Research Paper
-- 💡 Passionate about Software Engineering
 
-
----
-
-## 🤝 Connect With Me
+### 🛠️ Technologies Used
 
 <div align="center">
 
-<a href="https://github.com/shamah3">
-<img src="https://img.shields.io/badge/GitHub-Shamah3-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/shama-ai-fagih-ba0b93341">
-<img src="https://img.shields.io/badge/LinkedIn-Shama%20Al--Fakih-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile ❤️
-
-*"Turning ideas into software."*
+<img src="https://skillicons.dev/icons?i=flutter,laravel,mysql,git"/>
 
 </div>
