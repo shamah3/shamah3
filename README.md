@@ -45,7 +45,7 @@ Building practical software solutions with a passion for modern web and mobile d
 
 ### Hello 👋
 
-I'm **Shama Al-Fagih**, an Information Technology graduate passionate about software development and creating practical digital solutions.
+I'm **Shama Al-Fakih**, an Information Technology graduate passionate about software development and creating practical digital solutions.
 
 I enjoy building web applications with **Laravel**, mobile applications with **Flutter**, designing databases, integrating RESTful APIs, and continuously improving my technical skills.
 
