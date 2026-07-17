@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1E3A8A,100:2563EB&height=220&section=header&text=Shama%20Al-Fagih&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Flutter%20•%20Laravel&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1E3A8A,100:2563EB&height=220&section=header&text=Shama%20Al-Fakih&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Flutter%20•%20Laravel&descAlignY=58"/>
 
 <div align="center">
 
@@ -164,3 +164,67 @@ Published in **Al-Razi University Journal (RUJMS)**
 </p>
 
 ---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shamah3&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamah3&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=shamah3&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shamah3&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:Shamaalfakih@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/shama-ai-fagih-ba0b93341">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/shamah3">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### *"Building software that creates real value."*
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=120&section=footer"/>
