@@ -1,45 +1,130 @@
-<div style="background-color: #0d1117; border: 2px solid #38bdf8; border-radius: 12px; padding: 35px; text-align: center; margin-bottom: 25px; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.15);">
-  <h1 style="color: #ffffff; font-family: 'Segoe UI', Arial, sans-serif; font-size: 38px; margin: 0 0 10px 0; letter-spacing: 1px;">SHAMA AL-FAKIH</h1>
-  <p style="color: #38bdf8; font-family: 'Courier New', Courier, monospace; font-size: 18px; font-weight: bold; margin: 0 0 15px 0; text-transform: uppercase;">⚡ Full-Stack Developer • Flutter & Laravel Specialist ⚡</p>
-  <p style="color: #94a3b8; font-family: 'Segoe UI', Arial, sans-serif; font-size: 15px; max-width: 600px; margin: 0 auto; line-height: 1.6;">Crafting high-performance cross-platform mobile applications and building scalable, secure backend systems with robust RESTful APIs.</p>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D47A1,40:1565C0,100:42A5F5&text=SHAMA%20AL-FAKIH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%7C%20Laravel%20Developer&descAlignY=58&descSize=18"/>
 
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&height=40&lines=Flutter+and+Laravel+Developer;Building+Full-Stack+Solutions;RESTful+API+Expert;Team+Leader" alt="Typing SVG" />
+# 👋 Hi, I'm Shama Al-Fakih
+
+### Information Technology Graduate • Flutter & Laravel Developer
+
+<p>
+Building scalable mobile and web applications with clean architecture,
+RESTful APIs, and modern software engineering practices.
 </p>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=42A5F5&center=true&vCenter=true&width=700&lines=Flutter+Developer;Laravel+Developer;Information+Technology+Graduate;Published+Research+Author;Building+Smart+Software+Solutions;Always+Learning+New+Technologies"/>
 
 </div>
 
-## 📑 About Me
+<br>
 
-I am an **Information Technology Graduate** specializing in crafting cross-platform mobile apps with **Flutter** and powerful backends using **Laravel**. With a strong foundation in database design, API architecture, and research, I love turning complex business logic into smooth, user-centric digital products.
+# About Me
 
 <table width="100%">
 <tr>
+
 <td width="55%" valign="top">
 
 ```dart
 class ShamaAlFakih {
-  final String degree = 'B.Sc. in Information Technology';
-  final String location = 'Sana\'a, Yemen';
-  
-  final List<String> mobileWeb = [
-    'Flutter', 'Dart', 'Laravel', 'PHP'
+
+  final String role =
+      "Flutter & Laravel Developer";
+
+  final String education =
+      "Information Technology Graduate";
+
+  final String location =
+      "Sana'a, Yemen";
+
+  final List<String> expertise = [
+
+    "Flutter",
+
+    "Laravel",
+
+    "REST APIs",
+
+    "Database Design",
+
+    "Mobile Development",
+
+    "Web Development"
+
   ];
-  
-  final List<String> techStack = [
-    'RESTful APIs', 'MySQL', 'SQL Server', 
-    'Git & GitHub', 'Postman'
+
+  final List<String> achievements = [
+
+    "Published Research Paper",
+
+    "Graduation Project Leader",
+
+    "Smart Inventory Platform"
+
   ];
-  
-  final bool lovesProblemSolving = true;
-  
+
   void currentFocus() {
-    print('Building smart scalable systems.');
+
+    print("Building impactful software.");
+
   }
+
 }
+```
+
+</td>
+
+<td width="45%" align="center">
+
+<img width="95%" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner-image.png"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,git,github,postman,vscode,figma,html,css,js,cs&theme=dark"/>
+
+</div>
+
+<br>
+
+# Professional Highlights
+
+<div align="center">
+
+| 🎓 Information Technology Graduate | 👩‍💻 Flutter & Laravel Developer |
+|:----------------------------------:|:--------------------------------:|
+| Building modern mobile & web applications with scalable architecture. | Passionate about creating clean, maintainable software. |
+
+| 📄 Published Research Author | 🚀 Graduation Project Team Leader |
+|:----------------------------:|:--------------------------------:|
+| Co-author of an AI research paper on fraud detection in electronic wallets. | Led the development of a smart inventory and e-commerce integration platform. |
+
+</div>
+
+<br>
+
+# Current Focus
+
+```text
+📱 Developing cross-platform applications with Flutter
+
+🌐 Building secure backend systems using Laravel
+
+🔗 Designing RESTful APIs and database-driven solutions
+
+📚 Exploring software architecture and AI integration
+
+🚀 Continuously improving through real-world projects
+```
+
+ 
+
 
