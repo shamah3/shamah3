@@ -60,6 +60,100 @@ class ShamaAlFagih {
 ```
 
 ---
+## 🚀 Featured Project
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="100%">
+
+<h3>📦 Smart Digital Inventory Management & E-Commerce Integration System</h3>
+
+<p align="left">
+
+A graduation project designed to connect local electronics stores with an online platform through a smart inventory synchronization mechanism.
+
+</p>
+
+### ✨ Highlights
+
+- 📱 Flutter Mobile Application
+- 🌐 Laravel Web Dashboard
+- 🔄 Smart Inventory Synchronization
+- 💳 Electronic Wallet Integration
+- 📊 Reports & Analytics Dashboard
+- 🤖 AI-powered Assistant
+
+<br>
+
+<p>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📄 Research Publication
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="100%">
+
+### 🧠 Mechanism of Fraud Detection and Prevention in Electronic Wallets Using Artificial Intelligence
+
+Published in **Al-Razi University Journal (RUJMS)**
+
+📅 **May 2026**
+
+<br>
+
+<a href="https://rujms.alraziuni.edu.ye/RUJCST/en/article/view/348/296">
+
+<img src="https://img.shields.io/badge/Read%20Publication-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Mobile | Backend | Database | Research |
+|:------:|:-------:|:--------:|:--------:|
+| Flutter | Laravel | MySQL | AI Applications |
+
+</div>
+
+---
 
 ## 💻 Tech Stack
 
