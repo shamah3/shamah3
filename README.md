@@ -50,21 +50,7 @@ My interests include:
 
 <div align="center">
 
-### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-<br>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,sqlserver" />
-
-<br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,sqlserver,js,html,css,git,github,vscode,figma&perline=7" />
 
 </div>
 
