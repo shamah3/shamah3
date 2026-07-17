@@ -26,7 +26,7 @@ and modern software development technologies.
 
 <td width="55%" valign="top">
 
-I'm **Shama Al-Fakih**, an Information Technology graduate passionate about software development and creating practical digital solutions.
+I'm an Information Technology graduate passionate about software development and creating practical digital solutions.
 
 I specialize in:
 
