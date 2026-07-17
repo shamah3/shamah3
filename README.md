@@ -63,3 +63,94 @@ Currently, I'm focusing on developing real-world software projects that solve pr
 </table>
 
 ---
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="150">
+
+<img src="https://skillicons.dev/icons?i=flutter"/>
+
+### Flutter
+
+Cross-platform Apps
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://skillicons.dev/icons?i=laravel"/>
+
+### Laravel
+
+Backend Development
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://skillicons.dev/icons?i=php"/>
+
+### PHP
+
+Server-side Logic
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+### MySQL
+
+Database Design
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## ⭐ Featured Project
+
+<div align="center">
+
+# Smart Digital Inventory Management
+
+*A graduation project focused on integrating inventory management with e-commerce stores using modern web technologies.*
+
+<br>
+
+| Technology | Used |
+|------------|------|
+| Flutter | ✅ |
+| Laravel | ✅ |
+| REST APIs | ✅ |
+| MySQL | ✅ |
+| SQL Server | ✅ |
+
+</div>
+
+---
+
+## 📄 Published Research
+
+<div align="center">
+
+### Mechanism of Fraud Detection and Prevention in Electronic Wallets Using Artificial Intelligence
+
+Published in **Al-Razi University Journal**
+
+May 2026
+
+</div>
+
+---
