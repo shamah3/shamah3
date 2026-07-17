@@ -47,31 +47,13 @@ class ShamaAlFakih {
 
     "Web Development"
 
-  ];
-
-  final List<String> achievements = [
-
-    "Published Research",
-
-    "Graduation Project Leader",
-
-    "AI Applications"
-
-  ];
-
-  void build() {
-
-    print("Creating software that solves real-world problems.");
-
-  }
-
 }
 ```
 
 </td>
 
 <td align="center">
-
+<img src="download.jpg" width="95%" alt="About Me Illustration"/>
 <!-- سنضع الصورة هنا لاحقاً -->
 
 </td>
