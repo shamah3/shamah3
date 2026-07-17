@@ -91,10 +91,6 @@ Research focused on using Artificial Intelligence techniques for fraud detection
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shamah3&theme=github-dark&hide_border=true" />
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamah3&theme=github-dark&hide_border=true" width="95%"/>
 
 </div>
