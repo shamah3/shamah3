@@ -9,7 +9,7 @@
 Building robust mobile applications and scalable web backends with seamless API integrations.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=650&lines=Flutter+%26+Laravel+Developer;Building+Full-Stack+Solutions;RESTful+API+Expert;Research+Co-Author;Team+Leader"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=650&lines=Flutter+and+Laravel+Developer;Building+Full-Stack+Solutions;RESTful+API+Expert;Research+Co-Author;Team+Leader"/>
 
 <br/>
 </div>
