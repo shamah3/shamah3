@@ -258,14 +258,6 @@ A smart digital platform developed to connect electronic stores with an integrat
 
 <br/>
 
-### Technologies Used
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,laravel,mysql,git"/>
-
-</div>
-
 <br/>
 
 ## 📄 Research Publication
