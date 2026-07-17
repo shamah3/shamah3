@@ -15,20 +15,6 @@ and modern software development technologies.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=40E0D0&center=true&vCenter=true&width=650&lines=Flutter+Developer;Laravel+Developer;Mobile+%26+Web+Applications;REST+API+Integration;Always+Learning+New+Technologies"/>
 
-<br/><br/>
-
-<a href="https://github.com/shamah3">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shama-ai-fagih-ba0b93341">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="mailto:Shamaalfakih@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-
 </div>
 
 <br/>
