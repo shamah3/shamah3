@@ -87,17 +87,15 @@ Research focused on using Artificial Intelligence techniques for fraud detection
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamah3&theme=github_dark" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=shamah3&theme=github-dark&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamah3&theme=github_dark" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamah3&theme=github_dark" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shamah3&theme=github-dark&hide_border=true" width="95%"/>
 
 </div>
 
