@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,40:2563EB,100:3B82F6&section=header&text=Shama%20Al-Fagih&fontColor=FFFFFF&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Flutter%20%26%20Laravel&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,40:2563EB,100:3B82F6&section=header&text=Shama%20Al-Fakih&fontColor=FFFFFF&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Flutter%20%26%20Laravel&descAlignY=58"/>
 
 # 👋 Hi, I'm **Shama Al-Fagih**
 
