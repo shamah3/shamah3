@@ -42,47 +42,38 @@ I enjoy transforming ideas into clean, user-focused applications using Flutter a
 
 <br><br>
 
-## Featured Projects
+<h2 align="center">✨ Featured Projects</h2>
 
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 🛒
-
-### Smart E-Commerce Platform
-
-Multi-vendor marketplace for electronic devices with inventory synchronization and digital wallet integration.
-
-</td>
-
-<td width="33%" align="center">
-
-### 📦
-
-### Inventory Management
-
-Real-time inventory synchronization between local stores and the online platform.
-
-</td>
-
-<td width="33%" align="center">
-
-### 📱
-
-### Flutter Mobile App
-
-Modern mobile shopping application built with Flutter and integrated with Laravel APIs.
-
-</td>
-
-</tr>
+<table align="center">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <h3>🛒 Smart E-Commerce</h3>
+      <p>Multi-vendor marketplace for electronic devices featuring automated inventory sync and digital wallet payments.</p>
+      <p>
+        <code>Laravel</code> &nbsp; <code>Flutter</code> &nbsp; <code>MySQL</code>
+      </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <h3>📦 Inventory Management</h3>
+      <p>Real-time synchronization engine bridging local store databases with online platform stock levels.</p>
+      <p>
+        <code>Laravel</code> &nbsp; <code>REST API</code> &nbsp; <code>Sync Engine</code>
+      </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <h3>📱 Mobile Shopping App</h3>
+      <p>Modern and responsive cross-platform mobile app built for seamless user experience.</p>
+      <p>
+        <code>Flutter</code> &nbsp; <code>Dart</code> &nbsp; <code>State Management</code>
+      </p>
+    </td>
+  </tr>
 </table>
 
-<br><br>
-<br><br>
-<br><br>
+<br>
 
 <h2 align="center">GitHub Statistics</h2>
 
