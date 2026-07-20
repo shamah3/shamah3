@@ -97,18 +97,11 @@ Modern mobile shopping application built with Flutter and integrated with Larave
 <br><br>
 
 <p align="center">
-<a href="https://linkedin.com/in/shama-ai-fagih-ba0b93341">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/shama-ai-fagih-ba0b93341"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="48"/></a>
 </p>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center">
-Thanks for visiting my profile 💙
+  Thanks for visiting my profile 💙
 </p>
