@@ -83,7 +83,10 @@ Modern mobile shopping application built with Flutter and integrated with Larave
 <br><br>
 <br><br>
 
-
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shamah3&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamah3&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/shama-ai-fagih-ba0b93341">
