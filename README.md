@@ -88,9 +88,9 @@ Modern mobile shopping application built with Flutter and integrated with Larave
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shamah3&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shamah3&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamah3&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shamah3&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 
