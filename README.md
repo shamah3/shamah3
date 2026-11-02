@@ -9,10 +9,10 @@
     <td width="58%" valign="middle" style="padding-right: 20px;">
 <h2><font color="#58A6FF">⚡ ABOUT</font></h2>
 <p>
-  UI/UX Designer and Software Engineer passionate about creating elegant, scalable, and user-focused digital products with <b><font color="#58A6FF">Figma</font></b>, <b><font color="#58A6FF">Flutter</font></b>, and <b><font color="#58A6FF">Laravel</font></b>.
+   Software Engineer and UI/UX Designer passionate about creating elegant, scalable, and user-focused digital products using modern technologies and design tools such as <b><font color="#58A6FF">Flutter</font></b>, <b><font color="#58A6FF">Laravel</font></b>, and <b><font color="#58A6FF">Figma</font></b>.
 </p>
 <p>
-  I enjoy transforming ideas into meaningful digital experiences by combining creative design thinking with technical implementation.
+  I enjoy transforming ideas into meaningful digital experiences by combining technical development skills with creative design thinking.
 </p>
     </td>
     <td width="42%" align="center" valign="middle">
@@ -26,7 +26,7 @@
 <h2><font color="#58A6FF">🚀 TECH STACK</font></h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,laravel,php,dart,js,mysql,git,github,vscode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,figma,php,dart,js,mysql,git,github,vscode" height="50"/>
 </div>
 
 <br><hr color="#1f2937"><br>
@@ -47,8 +47,8 @@
     </td>
     <td width="33%" valign="top">
       <h3>📱 Mobile Application</h3>
-      <p>Cross-platform mobile app built with Flutter delivering smooth and modern user experience.</p>
-      <p>🔹 <font color="#58A6FF"><b>Flutter</b></font> &nbsp;•&nbsp; 🔹 <font color="#58A6FF"><b>Dart</b></font></p>
+      <p>Cross-platform mobile application designed with a focus on modern UI, smooth interactions, and user experience.</p>
+     <p>🔹 <font color="#58A6FF"><b>Flutter</b></font> &nbsp;•&nbsp; 🔹 <font color="#58A6FF"><b>Dart</b></font> &nbsp;•&nbsp; 🔹 <font color="#58A6FF"><b>UI/UX</b></font></p>
     </td>
   </tr>
 </table>
