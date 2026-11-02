@@ -7,13 +7,13 @@
 <table border="0" width="100%">
   <tr>
     <td width="58%" valign="middle" style="padding-right: 20px;">
-      <h2><font color="#58A6FF">⚡ ABOUT</font></h2>
-      <p>
-        Software Engineer passionate about building elegant, scalable, and user-focused digital products with <b><font color="#58A6FF">Flutter</font></b> and <b><font color="#58A6FF">Laravel</font></b>.
-      </p>
-      <p>
-        I enjoy turning ideas into meaningful solutions that make a real impact.
-      </p>
+<h2><font color="#58A6FF">⚡ ABOUT</font></h2>
+<p>
+  UI/UX Designer and Software Engineer passionate about creating elegant, scalable, and user-focused digital products with <b><font color="#58A6FF">Figma</font></b>, <b><font color="#58A6FF">Flutter</font></b>, and <b><font color="#58A6FF">Laravel</font></b>.
+</p>
+<p>
+  I enjoy transforming ideas into meaningful digital experiences by combining creative design thinking with technical implementation.
+</p>
     </td>
     <td width="42%" align="center" valign="middle">
       <img src="about.png" width="100%" alt="About Illustration"/>
